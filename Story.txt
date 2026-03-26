@@ -8,8 +8,20 @@ on to your wounds, turn to 283. If you wish to set of north along the path, turn
 High in the sky you see a large flying creature.It is certainly bigger than any bird you have ever seen. As it comes closer you draw your sword...
 If you win, turn to 247
 
+247
+The loasthsome Pterodactyl lies in a crumpled heap where it crashed to the floor after the fatal blow from your sword.
+Walking over to it you notice a yellow arrow painted on the grass beside the path, pointing west. If you wish to follow
+the arrow, turn to 3. If you wish to keep going north along the path, turn to 144.
+
 283
 Your soon arrive at another junction in the tunnel. If you wish to had north, turn to 81.
+If you wish to head south, turn to 270
+81
+Ahead you hear high-pitched voices frantically call-ing to each other. The tunnel ends at a small cave entrance. Suddenly an arrow flies out of the cave towards you.Test your Luck. If you are Lucky , the arrow whistles past your head(turn to 49). If you are Unlucky , it lodges in your sholder(turn to 4).
+
+49
+You press down on the tunnel into the cave entrance.The roof of the cave is no higher than the tunnel and you are unable to stand up. The cave is very small and filled with tiny bits of furniture and all mannerof objects and curios.Standing in the middle of the cave are two green-skinned creatures with small bodies and large heads; they have pointed years and long noses and their clothes are made from sacks. You must fight the GREMLINS as you are unable to turn round and escape.
+You soon arrive at another junction in the tunnel. If you wish to had north, turn to 81.
 If you wish to head south, turn to 270
 
 270
@@ -19,7 +31,13 @@ There is a wooden box just over a metre in length at the back of the cave.
 If you wish to lift the lid of the box, turn to 229.
 If you wish to turn arround and return to the junction in the tunnel, turn to 121.
 
-247
-The loasthsome Pterodactyl lies in a crumpled heap where it crashed to the floor after the fatal blow from your sword.
-Walking over to it you notice a yellow arrow painted on the grass beside the path, pointing west. If you wish to follow
-the arrow, turn to 3. If you wish to keep going north along the path, turn to 144.
+
+121
+Back at the junction you may either go east (turn to 61) or keep going north (turn to 81)
+
+229
+As you touch the wooden box, the lid flies up without your having yo lift it. From out of the box
+leaps a tiny green-skinned creature with a large head. He has a long nose and pointed ears and his clothes
+are made of sacking. You are taken by surprise and the GREMLIN tires to stab you with his dagger.
+Test yout Luck. If you are Lucky, you manage to dodge the thrusting blade(turn to 165).If 
+you are Unlucky, the blade sinks into your thigh(turn to 45).
