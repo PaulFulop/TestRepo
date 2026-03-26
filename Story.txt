@@ -38,6 +38,12 @@ If you wish to turn arround and return to the junction in the tunnel, turn to 12
 121
 Back at the junction you may either go east (turn to 61) or keep going north (turn to 81)
 
+61
+Soon you are back at the first junction. If you wish to crawl back to the well, turn to 398.
+If you wish to continue east, turn to 151
+
+Here the things take a weird turn because we just found out that just like some idiots, we copied the stories from the book
+when we actually had to write our own stories.
 229
 As you touch the wooden box, the lid flies up without your having yo lift it. From out of the box
 leaps a tiny green-skinned creature with a large head. He has a long nose and pointed ears and his clothes
