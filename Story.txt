@@ -75,5 +75,12 @@ If you wish to perform the magic trick on the magician instead of yourself, turn
 Here the things take a weird turn because we just found out that just like some idiots, we copied the stories from the book
 when we actually had to write our own stories.
 
+<<<<<<< 399
+399
+You are in luck, your sword broke while trying to commit semppuku, your attempt didnt work.
+But a monster saw you and now you have to battle him or run. To battle him turn to 400 and to 30 to run.
+
+=======
 So dear friends, what else should we do know? Maybe gather togheter around the fire and spreading news among the others...
+>>>>>>> main
 >>>>>>> main
