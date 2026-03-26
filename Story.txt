@@ -14,3 +14,6 @@ The cave is the lair of an intelligent creature, for it contains small pieces of
 There is a wooden box just over a metre in length at the back of the cave. 
 If you wish to lift the lid of the box, turn to 229.
 If you wish to turn arround and return to the junction in the tunnel, turn to 121.
+
+121
+Back at the junction you may either go east (turn to 61) or keep going north (turn to 81)
