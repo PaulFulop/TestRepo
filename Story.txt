@@ -64,10 +64,23 @@ If you wish to continue east, turn to 151
 151
 The tunnel ends at a cave entrance. A curtain hangs over the entrance and you are undable to see inside.
 If you wish to throw back the curtain and enter the cave, turn to 71. If you wish to commit semppuku turn to 399.
+<<<<<<< 71
+
+71
+You uravel the curtain just to see a magician waiting for travelers to help with his magic trick.
+The magician is holding a big saw in his hand and tell you to get in the box next to him.
+If you wish to get in the box turn to 144.
+If you wish to perform the magic trick on the magician instead of yourself, turn to 213.
+=======
 Here the things take a weird turn because we just found out that just like some idiots, we copied the stories from the book
 when we actually had to write our own stories.
 
+<<<<<<< 399
 399
 You are in luck, your sword broke while trying to commit semppuku, your attempt didnt work.
 But a monster saw you and now you have to battle him or run. To battle him turn to 400 and to 30 to run.
 
+=======
+So dear friends, what else should we do know? Maybe gather togheter around the fire and spreading news among the others...
+>>>>>>> main
+>>>>>>> main
