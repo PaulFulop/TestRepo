@@ -3,3 +3,7 @@ This story has been written by    Vlad,   Paul,  Tiberia,  Adela, George, Rares 
 You are an adventurer a sword for hire and have been romaning the northen 
 borderlands of your kingdom. You make a wish but nothing happens. Lose one luck point. If you wish to rub some hot mud
 on to your wounds, turn to 283. If you wish to set of north along the path, turn to 303.
+
+303
+High in the sky you see a large flying creature.It is certainly bigger than any bird you have ever seen. As it comes closer you draw your sword...
+If you win, turn to 247
