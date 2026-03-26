@@ -14,3 +14,10 @@ The cave is the lair of an intelligent creature, for it contains small pieces of
 There is a wooden box just over a metre in length at the back of the cave. 
 If you wish to lift the lid of the box, turn to 229.
 If you wish to turn arround and return to the junction in the tunnel, turn to 121.
+
+229
+As you touch the wooden box, the lid flies up without your having yo lift it. From out of the box
+leaps a tiny green-skinned creature with a large head. He has a long nose and pointed ears and his clothes
+are made of sacking. You are taken by surprise and the GREMLIN tires to stab you with his dagger.
+Test yout Luck. If you are Lucky, you manage to dodge the thrusting blade(turn to 165).If 
+you are Unlucky, the blade sinks into your thigh(turn to 45).
