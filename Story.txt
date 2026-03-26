@@ -28,3 +28,8 @@ yout hands and knees. You back up against a wall and draw your sword.
     Gremlin     Skill 5     Stamina 3
 During each Attack Round you must reduce yout Attack Strength by 3 because of your cramped
 fighting position. If you win, turn to 242.
+
+242
+Rummaging through some bedding in a chest of drawers you find an ingot of gold. It is worth 28 Gold Pieces.
+However it is very heavy and if you wish to take it you have to battle a demon and turn to page 121.
+If you decide to be a coward turn to 50. 
