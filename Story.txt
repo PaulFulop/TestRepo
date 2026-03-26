@@ -7,3 +7,10 @@ on to your wounds, turn to 283. If you wish to set of north along the path, turn
 283
 Your soon arrive at another junction in the tunnel. If you wish to had north, turn to 81.
 If you wish to head south, turn to 270
+
+270
+The tunnel ends at a cave entrance. On entering the cave you see that the roof is no higher than the tunnel and you are unable to stand up.
+The cave is the lair of an intelligent creature, for it contains small pieces of furniture.
+There is a wooden box just over a metre in length at the back of the cave. 
+If you wish to lift the lid of the box, turn to 229.
+If you wish to turn arround and return to the junction in the tunnel, turn to 121.
