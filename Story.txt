@@ -21,3 +21,10 @@ leaps a tiny green-skinned creature with a large head. He has a long nose and po
 are made of sacking. You are taken by surprise and the GREMLIN tires to stab you with his dagger.
 Test yout Luck. If you are Lucky, you manage to dodge the thrusting blade(turn to 165).If 
 you are Unlucky, the blade sinks into your thigh(turn to 45).
+
+165
+The smallGremlin is agile, being able to run around you while you have difficulty in moving about on
+yout hands and knees. You back up against a wall and draw your sword.
+    Gremlin     Skill 5     Stamina 3
+During each Attack Round you must reduce yout Attack Strength by 3 because of your cramped
+fighting position. If you win, turn to 242.
