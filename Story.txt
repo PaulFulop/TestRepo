@@ -8,6 +8,11 @@ on to your wounds, turn to 283. If you wish to set of north along the path, turn
 High in the sky you see a large flying creature.It is certainly bigger than any bird you have ever seen. As it comes closer you draw your sword...
 If you win, turn to 247
 
+247
+The loasthsome Pterodactyl lies in a crumpled heap where it crashed to the floor after the fatal blow from your sword.
+Walking over to it you notice a yellow arrow painted on the grass beside the path, pointing west. If you wish to follow
+the arrow, turn to 3. If you wish to keep going north along the path, turn to 144.
+
 283
 Your soon arrive at another junction in the tunnel. If you wish to had north, turn to 81.
 If you wish to head south, turn to 270
@@ -25,6 +30,7 @@ The cave is the lair of an intelligent creature, for it contains small pieces of
 There is a wooden box just over a metre in length at the back of the cave. 
 If you wish to lift the lid of the box, turn to 229.
 If you wish to turn arround and return to the junction in the tunnel, turn to 121.
+
 
 121
 Back at the junction you may either go east (turn to 61) or keep going north (turn to 81)
