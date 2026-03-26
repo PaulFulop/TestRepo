@@ -19,6 +19,9 @@ If you wish to head south, turn to 270
 81
 Ahead you hear high-pitched voices frantically call-ing to each other. The tunnel ends at a small cave entrance. Suddenly an arrow flies out of the cave towards you.Test your Luck. If you are Lucky , the arrow whistles past your head(turn to 49). If you are Unlucky , it lodges in your sholder(turn to 4).
 
+4
+Lose 4 Stamina points. If you are still alive you manage to pull the arrow from your shoulder although the pain is argonizing. If you wish to crawl back to the junction , turn to 93
+
 49
 You press down on the tunnel into the cave entrance.The roof of the cave is no higher than the tunnel and you are unable to stand up. The cave is very small and filled with tiny bits of furniture and all mannerof objects and curios.Standing in the middle of the cave are two green-skinned creatures with small bodies and large heads; they have pointed years and long noses and their clothes are made from sacks. You must fight the GREMLINS as you are unable to turn round and escape.
 You soon arrive at another junction in the tunnel. If you wish to had north, turn to 81.
